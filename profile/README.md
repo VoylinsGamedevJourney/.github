@@ -1,4 +1,5 @@
 # Voylin's Gamedev Journey
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R4M1UM6)
 ## About me
 I'm a stay at home dad from Belgium, living in Japan. My hobbies are [making videos](https://youtube.com/@voylinsgamedevjourney), DIY, learning, and programming. My biggest goal at the moment is to make what I do, Youtube and programming, into my actual full time job. Still have a long way to go. My github name is [Voylin](https://github.com/voylin).
 ## About us
