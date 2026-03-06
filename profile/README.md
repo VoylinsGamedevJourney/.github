@@ -12,4 +12,4 @@ GoZen is our attempt on creating the best Linux video editor available for Linux
 TeleDot is our attempt on making a better teleprompter which is easier to use. This project is in the fridge at the moment whilst continuing development of GoZen.
 [Click here to learn more!](https://github.com/VoylinsGamedevJourney/TeleDot)
 ## Want to support?
-You can support the projects through contributing and by visiting [the ko-fi page](https://ko-fi.com/voylin).
+You can support the projects through contributing and by visiting [the Ko-fi page](https://ko-fi.com/voylin) or [the Patreon page](https://patreon.com/voylin).
